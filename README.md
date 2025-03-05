@@ -5,11 +5,11 @@
 **Project Title:** Coffee, Chocolate, and Fruits
 
 **Group Members:**
+* Avoor Minha Fathima
 * Arjun Girish
 * Eman Iftikhar
 * Mahak Bachani
 * Mohammed Faiz Iqbal
-* Avoor Minha Fathima
 
 **Project Milestones:**
 * **Week 4:** Project Pitch Presentation
